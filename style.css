@@ -28,6 +28,8 @@ button {
     cursor:pointer;
     padding: 5px 10px;
     font-size: 14px;
+    background-color: #FC46AA;
+    color: #FFFFF;
 }
 
 #stockInfo {
